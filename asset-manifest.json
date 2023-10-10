@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Movie-app/static/js/main.6d05ffa8.js",
+    "static/media/poster.jpg": "/Movie-app/static/media/poster.faee189481935ea7c436.jpg",
+    "static/media/loading.gif": "/Movie-app/static/media/loading.90672f1deffccbcdf4f1.gif",
+    "index.html": "/Movie-app/index.html",
+    "main.6d05ffa8.js.map": "/Movie-app/static/js/main.6d05ffa8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6d05ffa8.js"
+  ]
+}
